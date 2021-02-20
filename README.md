@@ -15,4 +15,4 @@ JAVA云商城管理系统源码 PC+WAP手机版
 本软件为JAVA语言编写，企业级开发框架(SSH)开发，Spring3.0+Struts2+Hibernate3.0、数据库为Mysql 5.5 + memcached做为中间缓存数据层
 
 软件截图:
-![首页](https://github.com/jwillber/javaOnePayYunSystem/blob/main/UI/721280bf-ffc0-41a3-8969-f15897dc1b3d.png,'1元拍')
+![首页](https://github.com/jwillber/javaOnePayYunSystem/blob/main/UI/721280bf-ffc0-41a3-8969-f15897dc1b3d.png "1元拍")
